@@ -15,10 +15,13 @@
       }
       
       (function loop() {
-          var rand = Math.round(Math.random() * (50000));
+          var rand = Math.round(Math.random() * (10000));
           setTimeout(function() {
                   fontswap();
                   loop();  
+                  setTimeout(function() { 
+                    document.getElementById("shruggie").style.fontFamily = fontType[0];
+                  },500);
           }, rand);
       }());
     </script>
