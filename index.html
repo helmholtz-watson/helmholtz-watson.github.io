@@ -6,8 +6,22 @@
   <body>
     <div id="app"></div>
     <div class='fullscreenDiv'>
-        <div class="center"><h1>¯\_(ツ)_/¯</h1></div>
+        <div class="center" id="shruggie"><h1>¯\_(ツ)_/¯</h1></div>
     </div>​
+    <script>
+      var fontType = ["Arial", "Verdana", "Courier"];
+      function fontswap() {
+          document.getElementById("shruggie").style.fontFamily = fontType[Math.floor(Math.random() * fontType.length)];
+      }
+      
+      (function loop() {
+          var rand = Math.round(Math.random() * (5000));
+          setTimeout(function() {
+                  fontswap();
+                  loop();  
+          }, rand);
+      }());
+    </script>
   </body>
 </html> 
     
