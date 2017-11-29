@@ -1,0 +1,205 @@
+Transcript
+
+00:00:01 SE: Hey!
+00:00:02 IL: Heyâ€¦ I just had a question, what are you doing?
+00:00:04 SE: I'm interviewing people.
+00:00:05 IL: Oh!
+00:00:06 SE: My first name is Anthony
+00:00:07 IL: Miguel
+00:00:08 SE: Miquel?
+00:00:09 IL: Yes sir
+00:00:10 SE: Oh. Nice to meet you. Yeah I'm just interviewing strangers about how they arrived at their god belief. Oh, cool
+=="god belief"[sic.]
+00:00:14 SE: Do you want to do a quick interview?
+00:00:15 IL: Yeah, for sure!
+00:00:16 SE: I'll time it for five.
+00:00:17 IL: Ok
+00:00:18 SE: Miguel what god do you believe in dude?
+00:00:21 IL: I believe in Jesus Christ as my lord and savior
+00:00:24 SE: Why?
+00:00:25 IL: Because I know he died on the cross and I know he's the almighty god.
+00:00:29 SE: Ok. How confident are you that the belief if true? If, If 100% was "I'm 100 percent confident that Jesus died on the cross for me" and zero percent is "I'm not confident at all that Jesus died for me" where would you be on the scale?
+
+==== Move: get IL to quantify confidence in some religious claim
+
+00:00:43 IL: I'm 100%
+00:00:44 SE: Wow
+00:00:45 IL: Yeah, although sometimes it may feelâ€¦ sometimes I may feel like I struggle with my faith sometimes, you know like now how sometimes you go through things and feel like gods not, gods not here and in reality, you know, we [shy] away from him, he never leaves us. And so...
+00:01:01 SE: ok
+00:01:02 IL: I always know...
+00:01:03 SE: You just know it?
+00:01:04 IL: Yeah.
+00:01:05 SE: how do you know it dude, how... how could you be 100% confident on a belief?
+
+=== Question avowed confidence (note: IL has beem made to avow this quantitatively)
+
+00:01:10 IL: I donâ€™t know, just.. I guess faith.
+
+=== Note here that this is still compatible with confidence- or trust- type definitions of faith--asking how one can be confident is compatible with either sense
+
+00:01:12 SE: Faith
+00:01:13 IL: Just the foundation I was raised up on.
+00:01:15 SE: Ok, what is your definition of faith? If I were to write it down on this clipboard right now, what would you, how would you ...
+
+=== Move: get IL to define faith 
+
+00:01:20 IL: Faith is the hope in things...
+00:01:21 SE: describe it
+00:01:22 IL: unseen.
+00:01:23 SE: The hope in things unseen?
+00:01:25 IL: [to another person: thanks, see you later]
+00:01:31 SE: And that's faith?
+00:01:32 IL: I would say so. Would you, would you have a different term?
+00:01:36 SE: I've heard similar definitions of it
+00:01:39 IL: yeah
+00:01:40 SE: Whenâ€¦ How how big of your belief, that 100% is faith and how, what other percent is you being raised in it. Cause I think you mentioned that you were exposed to it
+
+=== ??? Odd question form. Perhaps usefully odd. It seems clear this is about the psychological/causal origin of that belief. 
+
+00:01:49 IL: Well, when I know like... in situations like god is just like showed up in my life, you know and in my family's life. Like, for example, I'll give you an example, like, I grew up without my dad, sort of grew up without my dad because he kind of cheated on my mom
+00:02:03 SE: ah, sorry to hear that.
+00:02:05 IL: and had a baby, you know, like, I justwent through a lot of stuff when I was younger.
+00:02:06 SE: Yeah.
+00:02:07 IL: And I came to um, like I guess you could say like a real, a real like truth to who Jesus was... you know like I got saved when I was five like, when I like, like when I got saved...
+00:02:20 SE: At five years old?
+00:02:21 IL: Yeah, like my grandma talked to me, like, like she introduced me to Jesus and like at that time, like when I was five years old I knew I was going to go to heaven. You know what I mean? Because, like I would just I don't know...
+00:02:32 SE: Could we get back to the faith part of it?
+
+=== Move: cutting off IL's attempt to put an answer to the question (he seems disoriented, begins to attempt to respond meaningfully, gets cut off.)
+
+00:02:33 IL: Yeah yeah yeah yeah
+00:02:34 SE: I that you're you're using faith to be so confident that Jesus works in your life and died for you and and you believe it so strongly and you define it as the hope in things unseen, do you have hope... do you use faith for other things and do you hope for things that are unseen in your life?
+
+=== MOVE: insidious mirroring: This bears superficial features of the discourse act that is called "mirroring"--however notice that it modifies and extends what IL has actually said--but only slightly, to the point where it could seem like an honest mistake
+
+00:02:49 IL: Yes.
+00:02:50 SE: Besides Jesus?
+00:02:51 IL: Yeah. I think ...
+00:02:53 SE: You do?
+00:02:54 IL: People put people put their faith in all types of stuff.
+00:02:55 SE: Like what?
+00:02:56 IL: But I guess just, like, for example, I have a test on Wednesday and I hope I pass on Wednesday.
+
+=== (Is this a different sense of faith, or no?)
+
+00:03:00 SE: You hope you pass?
+00:03:01 IL: You know what I mean?
+
+=== Note: IL doesn't just say "yes"--the locution "you know what I mean?" is a self-initiated repair segment, which indicates that they're trying to articulate something but not to their satisfaction, basically seeking affirmation that the sense they intended is clear to SE.
+
+00:03:02 SE: Are you equating faith with hope? Faith... hope... is faith the same as hope?
+00:03:09 IL: I wouldn't say that faith is the same as hope but faith, you kind of put your hope in faith.
+
+=== Further attempts to articulate an unclear/difficult distinction by IL
+
+00:03:14 SE: Hmmmm.
+00:03:15 IL: I don't know...
+00:03:16 SE: With regard to this example for youâ€¦ for this test, you hope that you pass it.
+00:03:23 IL: But I know in order for me to pass it, I have to study.
+00:03:27 SE: Sure
+00:03:28 IL: I have to understand the material...
+00:03:29 SE: Ok
+00:03:30 IL: before I take the test.
+00:03:31 SE: Yeah.
+00:03:32 IL: You know?
+00:03:33 SE: When you hope that you pass the test, is there not an element of a possibility that you might fail the test?
+00:03:37 IL: Yes.
+00:03:38 SE: Is hope the same way? Is hope... does hope, uh, does, does faith have a have an element of it possibly not happening or not being true?
+00:03:47 IL: I guess that's just something that you just don't know until you die... if you talk about Jesus. You know what I mean? Cuz, I guess, I guess somebody could have like a possibly, like maybe god isn't real, but then like, and then if I'm... and then if I'm wrong then I guess I'd have to face that when I die, but then if I'm right then somebody else has to face that when they die, you know what I mean?
+
+=== A lot of self-initiated repair segments here--struggling to articulate
+
+00:04:09 SE: Yeah. Miguel, if faith is equivalent to hope in your definition of it, and there's an element of it not happening or of it not, not coming true because hope has that possibility of it not, not, not... you hope you won't pass the test and maybe you won't pass the test, right? If faith is hope and it has the element of it not being true, can somebody really be at the 100% mark on the confidence of the belief being true.
+
+=== (there seems to be a distinction between degree of trust and degree of psychological certainty--perhaps a lot hinges on this)
+=== At any rate the move by SE is to identify the two.
+
+00:04:37 IL: I would say so. Because like, because it's like, you put your all into that. Like you know, like, I put my all into Jesus Christ...
+
+=== Sounds like a venture...
+
+00:04:45 SE: You're invested into it?
+00:04:46 IL: Yeah! And it's a daily... you know what I mean like, i feel like, like the bible says workout daily! You know what I mean? and I likeâ€¦ Sometimes like, some days we don't really, I don't know if you're a believer or ...
+00:04:57 SE: I'll , I'll answer it later
+
+=== *spits cereal all over the table*
+
+00:04:59 IL: I donâ€™t know how you believe or anything like that but I mean like, you know like, I just feel like daily, you know like, you work out your faith on a daily basis. You know because god's grace is renewed every day in our lives.
+00:05:09 SE: Are you saying that because you've invested so much into the belief that its difficult to consider that the belief might not be true? [timer starts to beep]
+
+=== (he doesn't appear to have been saying that)
+
+00:05:18 IL: I guessâ€¦ [long silence] [end timer beeps]
+00:05:23 IL: That was fast.
+00:05:25 SE: That was a fast five wasn't it? You wanna go another couple of minutes?
+00:05:31 IL: Sure
+00:05:32 SE: Ok. I fâ€¦ I find it really fascinating that this investment in the belief and you're acknowledgment that "because I've invested so much time and effort into the belief, that I'm reluctant to even examine if the belief might not be true." is that what you're saying?
+
+=== (He didn't say this at all.)
+
+00:05:49 IL: [Shakes head affirmatively]
+00:05:50 SE: I don't want to put words in your mouth so correct...
+00:05:52 IL: That is what I'm saying
+00:05:53 SE: It is!?
+00:05:54 IL: Yeah, like, you know like like to me, like, in a way I think, "how can, how can god not be real?", know what I mean? Like out of everything that's, everything that's in the world and everything that you see, and like the sky and like just like everythingâ€¦ how could it be something other than god? You know?
+
+===S1): "how can God not be real" -- rhetorical question, means to express that God's existence seems obvious
+
+00:06:11 SE: Just not knowing something makes you think it's all the more possible that this specific god exists in the life?
+
+===evidently SE chose to treat S1) as a literal question
+
+00:06:18 IL: I would say so.
+
+=== as an affirmative answer to the question was obviously self-defeating, this indicates that IL is hearing something other than SE is saying.
+
+00:06:19 SE: You know I've had conversations with people of other religions on this campus and elsewhere...
+00:06:23 IL: For sure
+00:06:24 SE: I've talked to a Muslim woman who said she was 100 percent convinced that Allah is the one true god, and I think we'd probably agree that she has the right to believe in the god, she uses faith and she hopes that Allah is real. She hopes it, and she's invested a lot of time in the belief. Right?
+00:06:40 SE: Like she was raised in it, and she put a lot of time and she goes to the, the mosque and does all these prayers... ummm, she's invested a lot of time in it, she hopes that it's real, she really wants it to be real because she's invested so much time in it...
+00:06:54 IL: uh hmm
+00:06:55 SE: In what way does that make her belief any, any more true than yours?
+00:07:00 IL: ummmâ€¦ I don't know too much about the Muslim religion so, I don't know how...
+
+=== Suggests the state of mind: "Is this directly relevant?"
+
+00:07:09 SE: But you don't even have to know about it, like I don't know much about it either but she's convinced about it.
+00:07:13 IL: Yeah
+00:07:14 SE: You know? She's certain, she's 100% convinced the belief is true and that Mohammed went to heaven on a winged horse. Like she really believes it, she uses faith, she hopes that it's true, she's invested a tremendous amount of time in the beliefâ€¦ How could, how could she be so confident in the belief that's a completely different belief than you?
+00:07:36 IL: I donâ€™t knowâ€¦ I see what you're saying. Maybe just her upbringing? I don't know...
+00:07:47 SE: Do you think her upbringing has any bearing on the truth of the belief?
+00:07:51 IL: Um... no because I know that Allah is not real. I know that there's only one true god.
+00:08:00 SE: So her being raised in the culture has no bearing on the belief being true, her belief in Allah. Yet, you're standing here today, possibly, largely because you were raised in it and exposed to this specific god?
+00:08:14 IL: but I think if I wasn't raised... like, just like stuff that I've been through in my life, you know what I mean? Like, like...
+00:08:20 SE: You think if you were raised in, to be a Hindu you might be a Christian today?
+00:08:24 IL: Yeah
+00:08:25 SE: You do?
+00:08:27 IL: I do. Just because of like, you know like, I've seen god, you know, like, just like, in ways that I wouldn't even think, I just know, like, this had to be Jesus. You know what I mean?
+00:08:37 SE: You're seeing things that are happening in your life and you're attributing them to the Christian god,
+00:08:42 IL: Yeah
+00:08:43 SE: But this woman would see things in her life and attribute them to a completely different god. How would we go about figuring out who would be more correct in the belief? Is there anyway that we can tell that you might be more correct than her, or vice versa?
+
+=== Appeals to disagreement; contingencies of religious upbringing as causal determinants of religious outlook (a class of objection we should consider)
+
+00:08:58 IL: I don't know. Yeah?..... Mmmm.... ..... ..... I don't know how to answer that. [laughs]
+
+=== Indeed, a difficult question
+
+00:09:13 SE: If you have no way of knowing of you are more correct in the belief than that Muslim woman, how could you possibly be at the 100% mark on the confidence of your belief?
+00:09:25 IL: hmmmm.... hmmmm .... .... .... .... I don't know
+
+=== Brings it back to the avowed degree of confidence, this time in either an epistemic or the psychological certainty sense (whereas when the question was asked, it was indeterminate)
+
+00:09:37 SE: Thank you very much for your time? I really appreciate it Miguel
+00:09:46 IL: Yeah. [interlocutors shake hands]
+
+=== Ends the conversation at IL being stumped; no further discussion by design.
+
+===COMMENTARY:
+ - in this interview, SE seemed rather persistent and single-minded about funneling IL into avowals of degree of psychological certainty. It seems clear that the psychological doubt-inducing effect is facilitated by bringing IL back to their own self-avowal. "Wait, I must have been wrong about what I said." But what did IL say? It's doubtful he remembers. To what does this psychological doubt affix itself? It's clear IL was bested in some way over the course of having been interviewed. But how? Maybe his position is wrong? Maybe he's ungrounded or incompetent or stupid? It's interesting to reflect on 
+
+- It may be interesting to find some means of classifying, identifying and interpreting the rather high incidence of repair attempts on the part of the interviewee. IL does not answer decisively, in a matter that would suggest they were satisfied with the question (or even that they really understood what was being asked.) This may provide strong evidence for coercive and leading practices inherent in SE. What does bafflement of this kind indicate? Why does it seem to occur at certain strategically relevant junctures only? The character and frequency of confusion, bafflement, and evidence of struggle to understand questions or to articulate answers, suggests that a frame is being imposed on them that is foreign to them. 
+---What does this imply for the self-description of SE as a technique for facilitating "honest conversations about faith"? 
+---Let's work backwards from that objective. Suppose we wanted to have honest conversations about faith with someone of a different background from ours. What would be the most fruitful way to have this conversation, in such a way that both sides can really represent themselves, their views and their experiences accurately? Draw that picture. Now set it next to the picture of SE we see here; we see in their manuals. Do they resemble in any respect? Or does it rather emerge that some rather decisive objectives are present in SE and absent in the honest conversation, and absent in SE while present in honest conversations?
+
+ JB, Nov 28, 2017
